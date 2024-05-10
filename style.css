@@ -1,0 +1,12 @@
+tr,td,th{
+	border: 2px solid black;
+}
+.Jarin{
+	border-collapse: collapse;
+}
+table{
+background-color: lightblue;	
+}
+th{
+	background-color: Yellow;
+}
